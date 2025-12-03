@@ -1,0 +1,1 @@
+Upload these files to a public GitHub repository named 'shopwithtulsiram.github.io' for root URL. Admin password: admin123. Products stored in localStorage.
